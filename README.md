@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melaodoidao
+- 👋 Hi, I’m @Goodan \ Joao Bondan
 - 👀 I’m interested in ... Applied Artificial Intelligence & Machine Learning
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... nothing yet :(
